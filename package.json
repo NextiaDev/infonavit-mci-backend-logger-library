@@ -1,5 +1,5 @@
 {
-  "name": "infonavit-mci-backend-logger-library",
+  "name": "logger-library",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NextiaDev/infonavit-mci-backend-logger-library.git"
+    "url": "git+https://github.com/NextiaDev/logger-library.git"
   },
   "bugs": {
-    "url": "https://github.com/NextiaDev/infonavit-mci-backend-logger-library/issues"
+    "url": "https://github.com/NextiaDev/logger-library/issues"
   },
-  "homepage": "https://github.com/NextiaDev/secure-decrypt-library#readme",
+  "homepage": "https://github.com/NextiaDev/logger-library#readme",
   "author": "",
   "license": "ISC",
   "devDependencies": {
