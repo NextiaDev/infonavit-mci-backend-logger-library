@@ -18,7 +18,7 @@ class buildLogger extends pinoLogger {
         }
         super({
             level: 10, customLevels: levels, useOnlyCustomLevels: true, timestamp: () => {
-                return `,"time":"${new Date().toLocaleString("es-MX", { timeZone: 'America/Mexico_City' })}"`;
+                return `,"time":"${new Date().toLocaleString("es-MX", { timeZone: 'Pacific/Galapagos' })}"`;
             }, formatters: {
                 level: (label) => {
                     return { level: label };
